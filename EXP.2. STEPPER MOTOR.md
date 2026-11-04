@@ -72,6 +72,9 @@ DATA:    DB 09H, 05H, 06H, 0AH ; Array of data
 ## OUTPUT OF THE PROGRAM:
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/0f2868d6-fca5-4100-8ce6-f7e12fa40ae3" />
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/bbab4f97-6da8-4271-9dd4-017a77508a17" />
+<img width="372" height="252" alt="image" src="https://github.com/user-attachments/assets/2de9373f-5725-459a-9c23-10e17a11bdd6" />
+<img width="374" height="282" alt="image" src="https://github.com/user-attachments/assets/6042ebd6-09a7-4824-af5d-b55b782ead10" />
+
 
 ## RESULT
 
